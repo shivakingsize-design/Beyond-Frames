@@ -1,4 +1,4 @@
-# MotionXStudio portfolio
+# @Beyond Frames portfolio
 
 ## Files
 - `index.html` — page content
